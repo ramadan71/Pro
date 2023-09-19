@@ -1,0 +1,74 @@
+.nav{
+    background-color: #22668D;
+    font-size: 1.5rem;
+}
+
+.nav img{
+    width: 80px;
+    height: 50px;
+    padding-left: 20px;
+}
+
+.nav a{
+    color:#FFCC70;
+}
+
+#PersonalDetails .row{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color:#8ECDDD;
+    height: 85vh;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    background-color: #8ECDDD;
+}
+
+.img-icon {
+    width: 3rem;
+    height: 3rem;
+}
+
+h2, h3{
+    color: #22668D;
+}
+
+h4{
+    color: #FFCC70;
+}
+
+#ContactMe{
+    height: 150px;
+    background-color: #8ECDDD;
+    background-image: -webkit-linear-gradient(top,#8ECDDD,#22668D);
+    color: #FFCC70;
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#ContactMe a{
+    text-decoration: none;
+    margin: 10px;
+    color: #FFCC70;
+}
+
+.fttext{
+    color: white;
+    font-size: 0.75rem;
+    margin-top: 20px;
+    margin-left: 25%;
+}
+
+.icon{
+    width:30px;
+    height: 30px;
+}
+
